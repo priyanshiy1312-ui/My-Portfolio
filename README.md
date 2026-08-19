@@ -2,7 +2,7 @@
 Personal responsive portfolio website built with HTML, CSS, and JavaScript featuring modern UI and animations.
 
 
-# 👋 Hi, I'm Priyanshi Yadav
+# 👋Hi, I'm Priyanshi Yadav
 
 Welcome to my Portfolio Website repository.
 
